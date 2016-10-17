@@ -3,7 +3,7 @@
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
 # Description of the Shiny application
-A shiny application has been created to compute the distance in kilometers between two European cities. The dataset "eurodist" has been used to abtain this information.
+A shiny application has been created to compute the distance in kilometers between two European cities. The dataset "eurodist" has been used to obtain this information.
 
 ## Part 1: Shiny Application
 1. Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
